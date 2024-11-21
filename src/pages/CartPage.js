@@ -1,4 +1,3 @@
-// src/pages/CartPage.jsx
 import Cart from '../components/Cart';
 
 const CartPage = () => (

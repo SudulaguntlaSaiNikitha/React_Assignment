@@ -1,22 +1,4 @@
-// // src/components/ProductCard.jsx
-// import { Card, CardContent, Button, Typography } from '@mui/material';
 
-// const ProductCard = ({ product, addToCart }) => (
-//   <Card>
-//     <CardContent>
-//       <Typography variant="h6">{product.title}</Typography>
-//       <Typography>Price: ${product.price}</Typography>
-//       <Button variant="contained" onClick={() => addToCart(product)}>
-//         Add to Cart
-//       </Button>
-//     </CardContent>
-//   </Card>
-// );
-
-// export default ProductCard;
-
-
-// src/components/ProductCard.jsx
 import React from 'react';
 import {
   Card,
